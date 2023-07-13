@@ -1,0 +1,37 @@
+"Fields": [
+        {
+            "Name": "Fname",
+            "Index": "0",
+            "Status": "N",
+            "LastModifiedDate": "",
+            "OldName": ""
+        },
+        {
+            "Name": "First Name",
+            "Index": "0",
+            "Status": "Y",
+            "LastModifiedDate": "2023-05-01T15:20:22.222",
+            "OldName": "Fname"
+        },
+        {
+            "Name": "FirstName",
+            "Index": "0",
+            "Status": "Y",
+            "LastModifiedDate": "2023-05-01T16:22:22.222",
+            "OldName": "First Name"
+        },
+        {
+            "Name": "Last Name",
+            "Index": "1",
+            "Status": "Y",
+            "LastModifiedDate": "",
+            "OldName": ""
+        },
+        {
+            "Name": "Mob.",
+            "Index": "10",
+            "Status": "Y",
+            "LastModifiedDate": "2023-07-01T16:22:22.222",
+            "OldName": ""
+        }
+]
